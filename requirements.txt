@@ -1,0 +1,6 @@
+jupyter
+ipython
+pandas
+seaborn
+autopep8
+
