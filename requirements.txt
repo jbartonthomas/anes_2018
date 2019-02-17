@@ -3,4 +3,5 @@ ipython
 pandas
 seaborn
 autopep8
+statsmodels
 
